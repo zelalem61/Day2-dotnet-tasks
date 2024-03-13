@@ -1,0 +1,14 @@
+C:\Users\Zelalem\Desktop\Day2\Day2-task2\bin\Debug\net7.0\Day2-task2.exe
+C:\Users\Zelalem\Desktop\Day2\Day2-task2\bin\Debug\net7.0\Day2-task2.deps.json
+C:\Users\Zelalem\Desktop\Day2\Day2-task2\bin\Debug\net7.0\Day2-task2.runtimeconfig.json
+C:\Users\Zelalem\Desktop\Day2\Day2-task2\bin\Debug\net7.0\Day2-task2.dll
+C:\Users\Zelalem\Desktop\Day2\Day2-task2\bin\Debug\net7.0\Day2-task2.pdb
+C:\Users\Zelalem\Desktop\Day2\Day2-task2\obj\Debug\net7.0\Day2-task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zelalem\Desktop\Day2\Day2-task2\obj\Debug\net7.0\Day2-task2.AssemblyInfoInputs.cache
+C:\Users\Zelalem\Desktop\Day2\Day2-task2\obj\Debug\net7.0\Day2-task2.AssemblyInfo.cs
+C:\Users\Zelalem\Desktop\Day2\Day2-task2\obj\Debug\net7.0\Day2-task2.csproj.CoreCompileInputs.cache
+C:\Users\Zelalem\Desktop\Day2\Day2-task2\obj\Debug\net7.0\Day2-task2.dll
+C:\Users\Zelalem\Desktop\Day2\Day2-task2\obj\Debug\net7.0\refint\Day2-task2.dll
+C:\Users\Zelalem\Desktop\Day2\Day2-task2\obj\Debug\net7.0\Day2-task2.pdb
+C:\Users\Zelalem\Desktop\Day2\Day2-task2\obj\Debug\net7.0\Day2-task2.genruntimeconfig.cache
+C:\Users\Zelalem\Desktop\Day2\Day2-task2\obj\Debug\net7.0\ref\Day2-task2.dll
